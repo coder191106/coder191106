@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Coder</h1>
 <h3 align="center">A coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a151106&label=Profile%20views&color=ffff00&style=plastic" alt="a151106" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a151106" alt="a151106" /></a> </p>
 
 - 🔭 I’m currently working on **a python project.**
